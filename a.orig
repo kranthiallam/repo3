@@ -1,9 +1,19 @@
 functionB();
 
 <<<<<<< HEAD
+ve you jammi                                               |  --------------------------------------------------------------|  -------------------------------------------------------------
+  love you jai   loveyou jyo
+
 
 love you jammi
 love you jai
+<<<<<<< HEAD
 =======
 loveyou jyo
 >>>>>>> featureA
+
+:wq
+
+=======
+loveyou jyo 
+>>>>>>> featureB
