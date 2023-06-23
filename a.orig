@@ -1,4 +1,4 @@
-ictionB();
+functionB();
 
 <<<<<<< HEAD
 ve you jammi                                               |  --------------------------------------------------------------|  -------------------------------------------------------------
@@ -7,11 +7,13 @@ ve you jammi                                               |  ------------------
 
 love you jammi
 love you jai
-
+<<<<<<< HEAD
+loveyou jyo 
+=======
 =======
 loveyou jyo
 >>>>>>> featureA
 
 :wq
 
-
+>>>>>>> featureA
